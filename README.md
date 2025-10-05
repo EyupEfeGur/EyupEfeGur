@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Eyüp Efe Gür!
 
-🚀 **Yazılım geliştirme tutkunu**, fikirlerini kodla şekillendirmeyi seven, her projesine ruh ve tasarım estetiği katan bir geliştiriciyim.  
+🚀 **Yazılım geliştirme tutkumu**, fikirlerimi kodla şekillendirmeyi seven, her projesime ruh ve tasarım estetiği katan bir geliştiriciyim.  
 Geliştirdiğim projelerde genellikle **Java, JavaScript, Python, C# ve Node.js** kullanıyorum.  
 Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak büyüleyici** bir hale getirmek. ✨
 
@@ -26,7 +26,7 @@ Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak bü
 ## 🪄 Projelerimden Bazıları
 
 ### 💫 HappyBara Online
-> Discord tarzında, modern ve holografik tasarıma sahip gerçek zamanlı sohbet uygulaması.  
+> Gerçek zamanlı bir chat, modern ve holografik tasarıma sahip gerçek zamanlı sohbet uygulaması.  
 > Firebase tabanlı kimlik doğrulama, profil düzenleme, sesli görüşme ve oda sistemi içerir.  
 
 ### 🌾 Anadolu’nun Tarlası
