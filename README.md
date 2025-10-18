@@ -2,7 +2,7 @@
 
 🚀 **Yazılım geliştirme tutkumu** fikirlerimi kodla şekillendirmeyi seven, her projesime ruh ve tasarım estetiği katan bir geliştiriciyim.  
 Geliştirdiğim projelerde genellikle **Java, JavaScript, Python, C# ve C** kullanıyorum.  
-Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak büyüleyici** bir hale getirmek. ✨
+Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **insanlara yararlı** bir hale getirmek. ✨
 
 ---
 
@@ -12,9 +12,9 @@ Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak bü
   **HappyBara (gerçek zamanlı chat uygulaması)** ve  
   **Anadolu’nun Tarlası (2D farming & crafting pixel-art oyun)**  
 - 🧠 İlgi alanlarım:  
-  Yazılım mimarisi, oyun tasarımı, web teknolojileri ve görsel arayüz tasarımı.  
+  Yazılım mimarisi, oyun tasarımı, web teknolojileri.  
 - 🎯 Hedefim:  
-  Hem kullanıcı deneyimini hem de performansı ön planda tutan **profesyonel seviyede uygulamalar** geliştirmek.  
+  Hem kullanıcı deneyimini hem de performansı ön planda tutan **kullanıcı dostu programlar** geliştirmek.  
 - 🧩 Kullandığım teknolojiler:  
   - 💬 Chat & Web: HTML, WebSocket, Firebase  
   - 🎮 Oyun: Godot  
@@ -55,14 +55,10 @@ Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak bü
 ## 🌐 Sosyal Medya & İletişim
 
 📸 **Gmail:** [eyupefegur2007@gmail.com] 
-💬 Daima seni bekliyor olucağım ...
+ℹ️ **Linkedin** [https://www.linkedin.com/in/eyup-efe-gur11a2007/]
 
 ---
 
-> “Kod satırlarında yalnızca mantık değil, karakter de vardır.”  
-> — *Eyüp Efe Gür*
-
----
 
 <!--
 **EyupEfeGur/EyupEfeGur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
