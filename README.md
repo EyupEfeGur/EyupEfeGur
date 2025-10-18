@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Eyüp Efe Gür!
 
 🚀 **Yazılım geliştirme tutkumu** fikirlerimi kodla şekillendirmeyi seven, her projesime ruh ve tasarım estetiği katan bir geliştiriciyim.  
-Geliştirdiğim projelerde genellikle **Java, JavaScript, Python, C# ve Node.js** kullanıyorum.  
+Geliştirdiğim projelerde genellikle **Java, JavaScript, Python, C# ve C** kullanıyorum.  
 Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak büyüleyici** bir hale getirmek. ✨
 
 ---
@@ -16,7 +16,7 @@ Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak bü
 - 🎯 Hedefim:  
   Hem kullanıcı deneyimini hem de performansı ön planda tutan **profesyonel seviyede uygulamalar** geliştirmek.  
 - 🧩 Kullandığım teknolojiler:  
-  - 💬 Chat & Web: Node.js, WebSocket, Firebase  
+  - 💬 Chat & Web: HTML, WebSocket, Firebase  
   - 🎮 Oyun: Godot  
   - 🖥️ Uygulama: Java (IntelliJ IDEA), C#, Electron  
   - 🎨 UI/UX: Holografik ve neon temalı tasarımlar
