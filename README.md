@@ -17,7 +17,7 @@ Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak bü
   Hem kullanıcı deneyimini hem de performansı ön planda tutan **profesyonel seviyede uygulamalar** geliştirmek.  
 - 🧩 Kullandığım teknolojiler:  
   - 💬 Chat & Web: Node.js, WebSocket, Firebase  
-  - 🎮 Oyun: Godot, HTML5 Canvas  
+  - 🎮 Oyun: Godot  
   - 🖥️ Uygulama: Java (IntelliJ IDEA), C#, Electron  
   - 🎨 UI/UX: Holografik ve neon temalı tasarımlar
 
