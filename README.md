@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Eyüp Efe Gür!
 
-🚀 **Yazılım geliştirme tutkumu**, fikirlerimi kodla şekillendirmeyi seven, her projesime ruh ve tasarım estetiği katan bir geliştiriciyim.  
+🚀 **Yazılım geliştirme tutkumu** fikirlerimi kodla şekillendirmeyi seven, her projesime ruh ve tasarım estetiği katan bir geliştiriciyim.  
 Geliştirdiğim projelerde genellikle **Java, JavaScript, Python, C# ve Node.js** kullanıyorum.  
 Amacım; teknolojiyi sadece işlevsel değil, aynı zamanda **görsel olarak büyüleyici** bir hale getirmek. ✨
 
